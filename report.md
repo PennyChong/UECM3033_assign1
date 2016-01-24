@@ -41,7 +41,6 @@ $$\int_0^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}.$$
 x_0 + 2 x_1 &= 8.
 \end{align*}
 
-Note: Report was written in word file as Github markdown does not render equations well
 -----------------------------------
 
 <sup>last modified: 24/01/2016 </sup>
