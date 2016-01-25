@@ -30,11 +30,11 @@ In this section, please report:
 
 1. The hexadecimal value of your student ID.
 
-The hexadecimal value of my student ID 1201782 is 125676.
+	The hexadecimal value of my student ID 1201782 is 125676.
 
 2. Write down the definite integrals that you have chosen.
 
-$$\int_0^{1} \frac{x^2+7x}{(1 + \sqrt{x})^4}dx = \frac{-139}{6} + 34ln(2).$$
+	$$\int_0^{1} \frac{x^2+7x}{(1 + \sqrt{x})^4}dx = \frac{-139}{6} + 34ln(2).$$
 
 3. Write down your system of 10 linear equations.
 
